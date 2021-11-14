@@ -1,3 +1,4 @@
+//Evelīna Frīdenberga - Tomaša
 //servera izveide, palīdzēja dāgs
 const cors = require("cors");
 const express = require("express");
