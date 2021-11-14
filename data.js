@@ -1,4 +1,5 @@
-//palīdzēja dāgs
+//Evelīna Frīdenberga - Tomaša
+//palīdzēja Dāgs
 const Phone = require("./database.js");
 
 //tiek nolasīti/saglabāti dati.
