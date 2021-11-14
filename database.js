@@ -1,3 +1,4 @@
+//Evelīna Frīdenberga - Tomaša
 //shēma kādā dati tiek saglabāti db
 const mongoose = require("mongoose");
 
